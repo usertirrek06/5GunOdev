@@ -1,0 +1,13 @@
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\obj\Debug\netcoreapp3.1\5.GunOdev.csprojAssemblyReference.cache
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\obj\Debug\netcoreapp3.1\5.GunOdev.AssemblyInfoInputs.cache
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\obj\Debug\netcoreapp3.1\5.GunOdev.AssemblyInfo.cs
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\obj\Debug\netcoreapp3.1\5.GunOdev.csproj.CoreCompileInputs.cache
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\bin\Debug\netcoreapp3.1\5.GunOdev.exe
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\bin\Debug\netcoreapp3.1\5.GunOdev.deps.json
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\bin\Debug\netcoreapp3.1\5.GunOdev.runtimeconfig.json
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\bin\Debug\netcoreapp3.1\5.GunOdev.runtimeconfig.dev.json
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\bin\Debug\netcoreapp3.1\5.GunOdev.dll
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\bin\Debug\netcoreapp3.1\5.GunOdev.pdb
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\obj\Debug\netcoreapp3.1\5.GunOdev.dll
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\obj\Debug\netcoreapp3.1\5.GunOdev.pdb
+C:\Users\Tarık Buğra\source\repos\5.GunOdev\5.GunOdev\obj\Debug\netcoreapp3.1\5.GunOdev.genruntimeconfig.cache
